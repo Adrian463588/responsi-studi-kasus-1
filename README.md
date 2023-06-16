@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : Adrian Syah Abidin 
-NIU : 463588 
-Sesi : 1 diganti 2 pada lab jarkom  
+Nama : Adrian Syah Abidin /n
+NIU : 463588 /n
+Sesi : 1 diganti 2 pada lab jarkom /n 
 Secret String : a466be15233ec91bd835581dcbbd09b10fd5c2241bf2d60521a2c1b6f15b00bf20230616073135
 
 ## Checklist Responsi
